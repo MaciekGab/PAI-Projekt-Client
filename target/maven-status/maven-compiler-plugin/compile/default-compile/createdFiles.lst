@@ -1,0 +1,13 @@
+pl\dmcs\ClientApp.class
+pl\dmcs\enums\BookCategory.class
+pl\dmcs\enums\ResponseStatus.class
+pl\dmcs\model\Response.class
+pl\dmcs\model\BookRequest$SearchBy.class
+pl\dmcs\model\UserResponse.class
+pl\dmcs\model\User.class
+pl\dmcs\model\UserRequest.class
+pl\dmcs\model\BookRequest.class
+pl\dmcs\enums\RequestType.class
+pl\dmcs\model\Book.class
+pl\dmcs\model\BookResponse.class
+pl\dmcs\model\Request.class
